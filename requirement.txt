@@ -1,0 +1,7 @@
+PyPDF2
+transformers==4.12.0
+pillow
+pytesseract
+pdfminer.six
+torch
+sentencepiece
